@@ -11,11 +11,15 @@ rg3 = {
     name     = "rg-chor-dev-3"
     location = "centralindia"
 }
-rg4 = {
-     name    = "rg-chor-preprod-4"
+
+{
+  rg5 = {
+     name    = "rg-chor-preprod-5"
     location = "centralindia"
 }
+} 
 }
+
 vnets = {
   vnet1 = {
     name                = "vnet-chor-dev"
